@@ -1,0 +1,10 @@
+/*div is block element
+span is inline element*/
+#box{
+    width:100px;
+    height: 100px;
+    background-color: red;
+    margin:5px;
+    padding:10px;
+    display:inline-block;
+}

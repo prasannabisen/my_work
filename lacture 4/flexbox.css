@@ -1,0 +1,15 @@
+.coin{
+    height:900px;
+    width: 900px;
+    background: green;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.item{
+    height:100px;
+    width: 100px;
+    background: red;
+    margin:10px;
+    justify-content: space-around;
+}

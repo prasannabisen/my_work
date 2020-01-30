@@ -1,0 +1,12 @@
+for only class .js
+band is a function 
+b1 is a object
+band.protype==b1.__proto__
+b1.__proto__==b2.__proto__
+band prototype 
+band.__proto__   }
+b2.__proto__     } both are object
+b1.prototype is just a field
+
+
+set timeout

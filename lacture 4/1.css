@@ -1,0 +1,20 @@
+div{
+    height:80px;
+    width: 80px;
+    background: red;
+    margin: 30px;
+}/*static is default parameter
+realative:-relative to other
+inside positin is also shift 
+in trasnslate inside position not shift
+absolute wrt window stick to the window
+relative
+static wrt to document
+fixed
+sticky
+*/
+#div2{
+    position: absolute;
+    bottom: 14px;
+    right: 10px;
+}

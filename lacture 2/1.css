@@ -1,0 +1,27 @@
+#p1{
+    color:pink;
+}
+#p2{
+    color:yellow
+}
+.item{
+    color:blue;
+}
+#htl{
+    color:red;
+}
+input[type="password"]{
+    color:red;
+    border:5px solid blue;
+}
+ul ol{
+    color:green;
+}
+/*class and id
+TAG ATTRIBUTE ATTRIBUTE-VALUE
+class tag .NAME is for group
+id # 
+id take prefrence order*/
+
+/*DOM document object Model
+*/

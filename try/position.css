@@ -1,0 +1,20 @@
+div{
+    height:90px;
+    width: 90px;
+    background:red;
+    margin:50px;
+}
+.div1{
+    position: absolute;
+    bottom:50px;
+    right:50px;
+}
+.div2{
+    position: fixed;
+    bottom:150px;
+    right:100px;
+}
+.div3{
+    position: relative;
+    right:150px;
+}

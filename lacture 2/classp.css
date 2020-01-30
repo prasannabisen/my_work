@@ -1,0 +1,6 @@
+tr:nth-child(2n){
+    background: pink;
+}
+td:hover{
+    color: red;
+}

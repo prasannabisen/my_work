@@ -1,0 +1,20 @@
+div{
+    background: blue;
+    width:190px;
+    height:150px;
+    margin:40px; 
+    box-shadow:10px 10px rgba(53, 42, 42, 0.333);
+}
+div:hover{
+    transition: .5s;
+    transform: translate(-5px,-10px);
+    cursor: crosshair;
+    box-shadow:20px 20px rgba(53, 42, 42, 0.333);
+}
+div:active{
+    transform:translate(5px,10px);
+}
+/*position property
+nap bar
+inline-block     
+*/
